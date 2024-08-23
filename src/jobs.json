@@ -83,6 +83,20 @@
         "contactEmail": "contact@ipsumlorem.com",
         "contactPhone": "555-555-5555"
       }
+    },
+    {
+      "title": "Nomlanga Avery Updated",
+      "type": "Internship",
+      "location": "Earum odit facere pr",
+      "description": "Possimus non autem ",
+      "salary": "$125K - $150K",
+      "company": {
+        "name": "Barton and Barrett Traders",
+        "description": "Blanditiis elit nob",
+        "contactEmail": "vizy@mailinator.com",
+        "contactPhone": "+1 (462) 658-3503"
+      },
+      "id": "a206"
     }
   ]
 }
