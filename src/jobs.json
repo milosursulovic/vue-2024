@@ -83,6 +83,20 @@
         "contactEmail": "contact@ipsumlorem.com",
         "contactPhone": "555-555-5555"
       }
+    },
+    {
+      "id": "b780",
+      "title": "Cassady Morales",
+      "type": "Remote",
+      "location": "Non adipisicing Nam ",
+      "description": "Perspiciatis volupt",
+      "salary": "$70K - $80K",
+      "company": {
+        "name": "Crosby Mills Trading",
+        "description": "Doloremque adipisici",
+        "contactEmail": "fogusu@mailinator.com",
+        "contactPhone": "+1 (247) 562-5023"
+      }
     }
   ]
 }
